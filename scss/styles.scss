@@ -350,7 +350,7 @@ footer {
     height: 100vh;
     min-height: 500px;
     max-height: 1080px;
-    background: url(../images/lead-bg.jpg);
+    background: url(../images/lead-federica-galli-449563.jpg);
     background-size: cover;
     padding: 15px;
     overflow: hidden;
@@ -693,6 +693,34 @@ footer {
     ----- 9. Skills Styles -----
     -------------------------------
 */
+
+#relevant-courses {
+    padding: 50px 15px;
+    text-align: center;
+
+    h2 {
+        color: $heading;
+        margin-bottom: 50px;
+    }
+
+    ul {
+        display: block;
+        margin: 0 auto;
+        padding: 0;
+        max-width: 800px;
+    }
+
+    li {
+        display: inline-block;
+        margin: 7px;
+        padding: 5px 10px;
+        color: $heading;
+        background: darken($background-alt, 5%);
+        list-style: none;
+        cursor: default;
+        font-size: 1.2em;
+    }
+}
 
 #skills {
     padding: 50px 15px;
