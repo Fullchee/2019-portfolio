@@ -1,3 +1,8 @@
-## Credits
+# Portfolio Site
 
-All the thanks and credits go to [Ryan Fitzgerald](https://ryanfitzgerald.github.io/) for creating the [devportfolio template](https://github.com/RyanFitzgerald/devportfolio).
+## TODOs
+- [ ] Add education to the top
+- [ ] 
+
+### Credits
+Original [devportfolio template](https://github.com/RyanFitzgerald/devportfolio) was created by [Ryan Fitzgerald](https://ryanfitzgerald.github.io/).
